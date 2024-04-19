@@ -1,1 +1,0 @@
-The Demo_images folder contains our Front-End Website Images. 
