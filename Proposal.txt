@@ -1,0 +1,5 @@
+FrontEnd:html,Css,JavaScript,Bootstrap
+BackEnd:Python,Machine Learning
+FrameWork: Flask
+AI Algorithm : CNN  (Convolutional Neural Network)
+Libraries: WSGI , Jinja2 (installed with Flask) , Numpy , Pandas 
